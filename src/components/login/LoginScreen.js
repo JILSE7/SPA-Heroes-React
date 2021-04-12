@@ -21,7 +21,7 @@ export const LoginScreen = ({history}) => {
         dispatch(action);
         console.log(lastPath);
 
-        history.replace(lastPath);
+        history.replace('/marvel');
         
 
     }
