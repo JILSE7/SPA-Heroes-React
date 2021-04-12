@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Single Page Application Heroes
+Este proyecto es de pura intencion didactica ya que la finalidad es profundizar en lso temas de los funtional components de react
+Como tambien el uso de rutas de React-Router-Dom
+Por alguna razon que no eh podido resolver, en github pages me sale un error que no me deja interactuar con la aplicacion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Si quieres utilizar la aplicacion utiliza npm install despues de clonarlo
+Con la finalidad que instale las dependencias necesarias para que lo puedas probar
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### Fotos de la app
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
