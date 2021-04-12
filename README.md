@@ -1,5 +1,5 @@
 # Single Page Application Heroes
-Este proyecto es de pura intencion didactica ya que la finalidad es profundizar en lso temas de los funtional components de react
+Este proyecto es de pura intencion didactica ya que la finalidad es profundizar en los temas de los funtional components de react
 Como tambien el uso de rutas de React-Router-Dom, UseContext, UseReducer, Interaccion con LocalStorage
 Por alguna razon que no eh podido resolver, en github pages me tira un  que no me deja interactuar con la aplicacion y localmente funciona perfecto
 
