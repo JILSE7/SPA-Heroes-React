@@ -7,12 +7,16 @@ Por alguna razon que no eh podido resolver, en github pages me sale un error que
 Con la finalidad que instale las dependencias necesarias para que lo puedas probar
 
 ### Fotos de la app
-
+Universo DC
 ![DC-Universe](https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_20266_localhost.jpeg?raw=true) 
 
 ![Search-Screen-for-id](https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_202827_localhost.jpeg) 
 
 ![Search-Screen](https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_202729_localhost.jpeg) 
+
+![Login-Screen](https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Login.png) 
+
+  
 
 
 
