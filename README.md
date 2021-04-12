@@ -9,7 +9,7 @@ Con la finalidad que instale las dependencias necesarias para que lo puedas prob
 ### Fotos de la app
 
 Runs the app in the development mode.\
-Open [https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_20266_localhost.jpeg](https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_20266_localhost.jpeg) 
+(https://github.com/JILSE7/SPA-Heroes-React/blob/master/app-imgs/Captura%20web_11-4-2021_20266_localhost.jpeg) 
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
