@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    height: 100px;
+    align-items: center;
+
+}
+
+.space{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 17px;
+    width: 100%;
+    
+}
+
