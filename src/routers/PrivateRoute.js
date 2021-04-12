@@ -11,7 +11,7 @@ export const PrivateRoute = ({
 }) => {
 
     console.log(`${rest.location.pathname}${rest.location.search}`);
-    localStorage.setItem('laspath', `${rest.location.pathname}${rest.location.search}`)
+    localStorage.setItem('laspath', `${rest.location.pathname}`)
 
     return (
         <Route {...rest} 
